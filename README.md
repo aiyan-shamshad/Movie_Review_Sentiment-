@@ -71,9 +71,11 @@ streamlit run app.py
 <div align="center">
 Python
 Pandas
-Scikit-learn[Movie Sentiment Analyzer-App screenshot.pdf](https://github.com/user-attachments/files/20431807/Movie.Sentiment.Analyzer-App.screenshot.pdf)
-
+Scikit-learn
 Streamlit
 NLTK
 
 </div>
+
+## See for yourself
+[Movie Sentiment Analyzer-App screenshot.pdf](https://github.com/user-attachments/files/20431807/Movie.Sentiment.Analyzer-App.screenshot.pdf)
