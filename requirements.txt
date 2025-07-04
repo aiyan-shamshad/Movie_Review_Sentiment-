@@ -1,9 +1,7 @@
-streamlit==1.33.0        # Updated for Python 3.12
-joblib==1.4.0            # Updated for compatibility
-numpy==1.26.4            # Works with Python 3.12
-matplotlib==3.8.4        # Updated for Python 3.12
-lime==0.2.0.1            # Should work (check for updates)
-wordcloud==1.9.3         # Updated to fix SafeConfigParser issue
-scikit-learn==1.4.2      # Updated for Python 3.12
-pandas==2.2.1            # Updated for Python 3.12
-Python==3.12.4
+streamlit==1.33.0
+scikit-learn==1.2.2
+numpy==1.24.3
+matplotlib==3.7.1
+lime==0.2.0.1
+wordcloud==1.9.3
+joblib==1.2.0
